@@ -2,7 +2,8 @@
 
 Doğum tarihinden kişinin burcu çıkartmak için codeigniter 3 ile uyumlu çalışan kütüphane 
 
-$buc  =	$this->Burclar_model->SetBurc($date);
+
+$buc  =	$this->Burclar_model->SetBurc('1991-12-21');
 
 sonuç orneği
 
